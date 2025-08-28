@@ -13,4 +13,5 @@ class Estudiante:
 
 estudiante1=Estudiante("Fabrice",17,"hombre","segundo año")
 estudiante2=Estudiante("Julie",8,"mujer","primaria")
-print(f"Los estudiantes incritos en los curso: {estudiante1.inscripcion()},{estudiante2.inscripcion()}")           
+print(f"Los estudiantes incritos en los curso: {estudiante1.inscripcion()},{estudiante2.inscripcion()
+      }")           

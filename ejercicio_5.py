@@ -25,4 +25,3 @@ print(f"La multiplicación es: {operacion1.multiplicacion()}")
 print(f"La división es: {operacion1.division()}")
 operacion1.y=0
 operacion1.division()
-
